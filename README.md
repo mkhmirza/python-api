@@ -8,5 +8,5 @@ Python application programming interfaces for various services.
   - spotify/
 
 ## Documentation
-- [Spotify API][https://developer.spotify.com/documentation/web-api/]
+- [Spotify API](https://developer.spotify.com/documentation/web-api/)
 - [International Space Station API](http://open-notify.org)
