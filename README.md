@@ -1,12 +1,14 @@
 # Python APIs
 
-Python application programming interfaces for various services.
+Python3 apis for various services.
 
 ## Structure
 - root/
-  - iss/
-  - spotify/
+  - iss
+  - spotify
+  - solar-api
 
 ## Documentation
-- [Spotify API](https://developer.spotify.com/documentation/web-api/)
+- [Spotify API](https://develxoper.spotify.com/documentation/web-api/)
 - [International Space Station API](http://open-notify.org)
+- [Solar System Open Data API](https://api.le-systeme-solaire.net/en/)
